@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /Users/Zeineb/Downloads/testGithubApi/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_masked-view] /Users/Zeineb/Downloads/testGithubApi/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/Zeineb/Downloads/testGithubApi/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/Zeineb/Downloads/testGithubApi/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/Zeineb/Downloads/testGithubApi/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/bfca87707204ed66c03933c2e8f3660c/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/6d630fcc402c060653f0473c14ebea83/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/0394b306385256959740255d0a631cf0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/c4bc8f25795224f293bee84bc88bbae5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/cda255351f791b30b8cdb9991d37d882/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/7637490c2184c3c6bfb8ab13eb0c7020/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/2dfe64f48180a6b3757881facda84f39/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/0f03f04f6bb0102aaa0bd12c36f4464e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/f4dd25c3dea062ee8336399cdfa277ce/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/623482bae90edb4b5c86e78de31c32c7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/c5b72bfff79869f95fc247bb60c8aeab/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/7372f08749590260af9107858cf20525/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/83f6f8abe18ef38316d1edd0e0215bf1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/fd1489fd414707ca11a5966093f35925/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/5ed2030b03bd3e4297bbe63e4fb48aac/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/a510a9673b69fa92698004572b9c7178/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/ab9a9cf89743dc368afa4419b9ed41b6/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/35ea5902f08e4b76200c2d5823e7ef4d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/b106ec8078d0992a0f0699de42f31916/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/4ba3555f39b483ae53e44761faeef7f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/4c785486b4b64f32627439a48eae5ffa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/da39eee07638df3584e63ea0d699bac2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/9b98458e3cb59a619685e1908bf17e20/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/2d0f3cb146ca3fb1a7390ec43dd5277b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/c8161fd26ae98c4d717c72b664d342c7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/9c3eca9eadac49b4d98276ca2fdfa8b1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/6f87f2f1038c08b6ac014502b20f3f24/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/61082236c2ac1308610d8fef104ceb05/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/ff0a1e552d9fe01e266ab0943caf9aec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/e6f0310b5cebb2698659384bf8bf1e85/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/8c7a51d8ba4c7141265c2b6c29e85417/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/3639ba6bbfba05fcac22ea9553212f46/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/afd283f7eca1a9aeaedc6f0224ab0cf7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/7e99831b4a538de876e5dfac6a001cd3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/6f8b8bcdb5bc85d16e0257ff4eefc306/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/c23434e990813253197e2b3f9fb6b742/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/9cb9f09a4a16c62dceade56253b28db4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/9b475f04829251c3a5610a550617402d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/191101ebc547ab1e66c57a6b917525f4/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/bfca87707204ed66c03933c2e8f3660c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/bfca87707204ed66c03933c2e8f3660c/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/0394b306385256959740255d0a631cf0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/0394b306385256959740255d0a631cf0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/7372f08749590260af9107858cf20525/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/7372f08749590260af9107858cf20525/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/61082236c2ac1308610d8fef104ceb05/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/61082236c2ac1308610d8fef104ceb05/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/e6f0310b5cebb2698659384bf8bf1e85/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/e6f0310b5cebb2698659384bf8bf1e85/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/61082236c2ac1308610d8fef104ceb05/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.testgthubrn.MainActivity
+ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/Zeineb/Downloads/testGithubApi/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/Zeineb/Downloads/testGithubApi/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] /Users/Zeineb/Downloads/testGithubApi/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/Zeineb/Downloads/testGithubApi/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/Zeineb/Downloads/testGithubApi/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/Zeineb/Downloads/testGithubApi/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/Zeineb/Downloads/testGithubApi/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/Zeineb/Downloads/testGithubApi/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/Zeineb/Downloads/testGithubApi/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/Zeineb/Downloads/testGithubApi/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/bfca87707204ed66c03933c2e8f3660c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/bfca87707204ed66c03933c2e8f3660c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/6d630fcc402c060653f0473c14ebea83/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/6d630fcc402c060653f0473c14ebea83/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/0394b306385256959740255d0a631cf0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/0394b306385256959740255d0a631cf0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/c4bc8f25795224f293bee84bc88bbae5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/c4bc8f25795224f293bee84bc88bbae5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/cda255351f791b30b8cdb9991d37d882/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/cda255351f791b30b8cdb9991d37d882/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/7637490c2184c3c6bfb8ab13eb0c7020/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/7637490c2184c3c6bfb8ab13eb0c7020/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/2dfe64f48180a6b3757881facda84f39/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/2dfe64f48180a6b3757881facda84f39/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/0f03f04f6bb0102aaa0bd12c36f4464e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/0f03f04f6bb0102aaa0bd12c36f4464e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/f4dd25c3dea062ee8336399cdfa277ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/f4dd25c3dea062ee8336399cdfa277ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/623482bae90edb4b5c86e78de31c32c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/623482bae90edb4b5c86e78de31c32c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/c5b72bfff79869f95fc247bb60c8aeab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/c5b72bfff79869f95fc247bb60c8aeab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/7372f08749590260af9107858cf20525/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/7372f08749590260af9107858cf20525/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/83f6f8abe18ef38316d1edd0e0215bf1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/83f6f8abe18ef38316d1edd0e0215bf1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/fd1489fd414707ca11a5966093f35925/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/fd1489fd414707ca11a5966093f35925/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/5ed2030b03bd3e4297bbe63e4fb48aac/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/5ed2030b03bd3e4297bbe63e4fb48aac/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/a510a9673b69fa92698004572b9c7178/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/a510a9673b69fa92698004572b9c7178/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/ab9a9cf89743dc368afa4419b9ed41b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/ab9a9cf89743dc368afa4419b9ed41b6/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/35ea5902f08e4b76200c2d5823e7ef4d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/35ea5902f08e4b76200c2d5823e7ef4d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/b106ec8078d0992a0f0699de42f31916/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/b106ec8078d0992a0f0699de42f31916/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/4ba3555f39b483ae53e44761faeef7f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/4ba3555f39b483ae53e44761faeef7f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/4c785486b4b64f32627439a48eae5ffa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/4c785486b4b64f32627439a48eae5ffa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/da39eee07638df3584e63ea0d699bac2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/da39eee07638df3584e63ea0d699bac2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/9b98458e3cb59a619685e1908bf17e20/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/9b98458e3cb59a619685e1908bf17e20/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/2d0f3cb146ca3fb1a7390ec43dd5277b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/2d0f3cb146ca3fb1a7390ec43dd5277b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/c8161fd26ae98c4d717c72b664d342c7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/c8161fd26ae98c4d717c72b664d342c7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/9c3eca9eadac49b4d98276ca2fdfa8b1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/9c3eca9eadac49b4d98276ca2fdfa8b1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/6f87f2f1038c08b6ac014502b20f3f24/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/6f87f2f1038c08b6ac014502b20f3f24/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/61082236c2ac1308610d8fef104ceb05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/61082236c2ac1308610d8fef104ceb05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/ff0a1e552d9fe01e266ab0943caf9aec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/ff0a1e552d9fe01e266ab0943caf9aec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/e6f0310b5cebb2698659384bf8bf1e85/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/e6f0310b5cebb2698659384bf8bf1e85/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/8c7a51d8ba4c7141265c2b6c29e85417/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/8c7a51d8ba4c7141265c2b6c29e85417/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/3639ba6bbfba05fcac22ea9553212f46/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/3639ba6bbfba05fcac22ea9553212f46/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/afd283f7eca1a9aeaedc6f0224ab0cf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/afd283f7eca1a9aeaedc6f0224ab0cf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/7e99831b4a538de876e5dfac6a001cd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/7e99831b4a538de876e5dfac6a001cd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/6f8b8bcdb5bc85d16e0257ff4eefc306/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/6f8b8bcdb5bc85d16e0257ff4eefc306/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/c23434e990813253197e2b3f9fb6b742/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/c23434e990813253197e2b3f9fb6b742/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/9cb9f09a4a16c62dceade56253b28db4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/9cb9f09a4a16c62dceade56253b28db4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/9b475f04829251c3a5610a550617402d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/9b475f04829251c3a5610a550617402d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/191101ebc547ab1e66c57a6b917525f4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/Zeineb/.gradle/caches/transforms-2/files-2.1/191101ebc547ab1e66c57a6b917525f4/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/Zeineb/Downloads/testGithubApi/android/app/src/debug/AndroidManifest.xml:5:22-75
